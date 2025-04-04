@@ -2,7 +2,7 @@
 > Design and deploy an e-commerce platform to sell products of a business.
 
 # Live Website
-[Hosted Website](http://149.56.22.220:5000)
+[Hosted Website]
 
 # Login Details
 User Accounts
